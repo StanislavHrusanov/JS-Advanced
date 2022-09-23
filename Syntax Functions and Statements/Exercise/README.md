@@ -39,7 +39,6 @@ The **output** should be printed on the console.
 | --- | --- |
 | **15, 5** | **5** |
 | **Input** | **Output** |
-| --- | --- |
 | **2154, 458** | **2** |
 
 
@@ -56,9 +55,11 @@ The **output** should be printed on the console.
 **Examples**
 
 | **Input** | **Output** |
-| --- | --- |
-| **2222222** | **true**** 14** |
+
+| **2222222** | **true** |
+              |  ** 14** |
 | **Input** | **Output** |
-| --- | --- |
-| **1234** | **false**** 10** |
+
+| **1234** | **false**|
+           | ** 10** |
 
