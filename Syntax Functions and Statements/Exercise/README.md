@@ -24,6 +24,8 @@ The **output** should be printed on the console.
 | --- | --- |
 | **'apple', 1563, 2.35** | **I need $3.67 to buy 1.56 kilograms apple.** |
 
+
+
 **2. Greatest Common Divisor - GCD**
 
 Write a function that takes **two**** positive ****numbers** as input and compute the greatest common divisor.
