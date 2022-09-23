@@ -24,3 +24,19 @@ The **output** should be printed on the console.
 | --- | --- |
 | **'apple', 1563, 2.35** | **I need $3.67 to buy 1.56 kilograms apple.** |
 
+2. **Greatest Common Divisor - GCD**
+
+Write a function that takes **two**** positive ****numbers** as input and compute the greatest common divisor.
+
+The **input** comes **as two positive integer numbers**.
+
+The **output** should be printed on the console.
+
+**Examples**
+
+| **Input** | **Output** |
+ | **Input** | **Output** |
+| --- | --- | --- | --- | --- |
+| **15, 5** | **5** |
+ | **2154, 458** | **2** |
+
