@@ -37,8 +37,9 @@ The **output** should be printed on the console.
 **Examples**
 
 | **Input** | **Output** |
- | **Input** | **Output** |
-| --- | --- | --- | --- | --- |
+| --- | --- |
 | **15, 5** | **5** |
- | **2154, 458** | **2** |
+| **Input** | **Output** |
+| --- | --- |
+| **2154, 458** | **2** |
 
