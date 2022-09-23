@@ -55,11 +55,9 @@ The **output** should be printed on the console.
 **Examples**
 
 | **Input** | **Output** |
-| --- | --- |
 | **2222222** | **true** |
-| --- | --- | |  **14** |
+              |  **14** |
 | **Input** | **Output** |
-| --- | --- |
-| **1234** | **false**|
-           | **10** |
+| **1234**  | **false**|
+            | **10** |
 
