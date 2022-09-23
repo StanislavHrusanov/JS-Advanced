@@ -25,7 +25,6 @@ The **output** should be printed on the console.
 | **'apple', 1563, 2.35** | **I need $3.67 to buy 1.56 kilograms apple.** |
 
 
-
 **2. Greatest Common Divisor - GCD**
 
 Write a function that takes **two**** positive ****numbers** as input and compute the greatest common divisor.
@@ -42,4 +41,24 @@ The **output** should be printed on the console.
 | **Input** | **Output** |
 | --- | --- |
 | **2154, 458** | **2** |
+
+
+**3. Same Numbers**
+
+Write a function that takes **an integer**** number** as an input and check if all the digits in a given number are the same or not.
+
+Print on the console **true** if all numbers are the same and **false** if not. On the next line print the **sum of all digits.**
+
+The **input** comes as an integer number.
+
+The **output** should be printed on the console.
+
+**Examples**
+
+| **Input** | **Output** |
+| --- | --- |
+| **2222222** | **true**** 14** |
+| **Input** | **Output** |
+| --- | --- |
+| **1234** | **false**** 10** |
 
