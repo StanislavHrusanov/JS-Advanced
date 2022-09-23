@@ -1,6 +1,6 @@
 # Exercise: Syntax, Functions and Statements
 
-1. **Fruit**
+**1. Fruit**
 
 Write a function that calculates how much money you need to buy fruit. You will receive a **string** for the type of fruit you want to buy, **a number** for weight in **grams,** and another **number** for the price per **kilogram**.
 
@@ -24,7 +24,7 @@ The **output** should be printed on the console.
 | --- | --- |
 | **'apple', 1563, 2.35** | **I need $3.67 to buy 1.56 kilograms apple.** |
 
-2. **Greatest Common Divisor - GCD**
+**2. Greatest Common Divisor - GCD**
 
 Write a function that takes **two**** positive ****numbers** as input and compute the greatest common divisor.
 
