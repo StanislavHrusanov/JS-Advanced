@@ -61,3 +61,23 @@ The **output** should be printed on the console.
 | **1234**  | **false**|
             | **10** |
 
+
+**4. Previous Day**
+
+Write a JS function that calculates the **date** of the **previous day** by given year, month, and day.
+
+The input comes as three numeric parameters. The first element is the year, the second is the month and the third is the day.
+
+The output must be the return date of the previous day in the format: **`{year}-{month}-{day}`**
+
+### Examples
+
+| **Input** | **Output** |
+| --- | --- |
+| 2016, 9, 30 | 2016-9-29 |
+| 2016, 10, 1 | 2016-9-30 |
+
+### Hints
+
+- Use **Date()**
+
