@@ -162,11 +162,11 @@ The **output** should be printed on the console.
 
 | **Input** | **Output** |
 | --- | --- |
-| **'32', 'chop', 'chop', 'chop', 'chop', 'chop'** |   16
-                                                       8
-                                                       4
-                                                       2
-                                                       1 |
+| **'32', 'chop', 'chop', 'chop', 'chop', 'chop'** |   16   |
+|                                                  |    8   |
+|                                                  |    4   |
+|                                                  |    2   |
+|                                                  |    1   |
 
 | **Input** | **Output** |
 | --- | --- |
