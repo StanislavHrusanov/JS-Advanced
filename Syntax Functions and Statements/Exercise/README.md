@@ -199,8 +199,8 @@ For each comparison print either **`**** {x1, y1} to {x2, y2} is valid ****`** i
 | **Input** | **Output** |
 | --- | --- |
 | **3, 0, 0, 4** | **{3, 0} to {0, 0} is valid** | 
-                 | **{0, 4} to {0, 0} is valid** |
-                 | **{3, 0} to {0, 4} is valid** |
+|                | **{0, 4} to {0, 0} is valid** |
+|                | **{3, 0} to {0, 4} is valid** |
 | **2, 1, 1, 1** | **{2, 1} to {0, 0} is invalid** | 
-                 | **{1, 1} to {0, 0} is invalid** |
-                 | **{2, 1} to {1, 1} is valid**   |
+|                | **{1, 1} to {0, 0} is invalid** |
+|                | **{2, 1} to {1, 1} is valid**   |
