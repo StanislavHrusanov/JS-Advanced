@@ -162,15 +162,19 @@ The **output** should be printed on the console.
 
 | **Input** | **Output** |
 | --- | --- |
-| **'32', 'chop', 'chop', 'chop', 'chop', 'chop'** | **16
-8
-4
-2
-1** |
+| **'32', 'chop', 'chop', 'chop', 'chop', 'chop'** |   16
+                                                       8
+                                                       4
+                                                       2
+                                                       1 |
 
 | **Input** | **Output** |
 | --- | --- |
-| **'9', 'dice', 'spice', 'chop', 'bake', 'fillet'** | **3**** 4 ****2**** 6 ****4.8** |
+| **'9', 'dice', 'spice', 'chop', 'bake', 'fillet'** | **3**
+                                                       **4**
+                                                       **2**
+                                                       **6**
+                                                       **4.8** |
 
 
 **8. Validity Checker**
