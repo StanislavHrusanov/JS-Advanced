@@ -217,11 +217,10 @@ The **output** should be a single line containing the converted string.
 ### Examples
 
 | **Input** | **Output** |
- | **Input** | **Output** |
-| --- | --- | --- | --- | --- |
-| **'Hi, how are you?'** | **HI, HOW, ARE, YOU**
- | **'hello'** | **HELLO**
- |
+| --- | --- |
+| **'Hi, how are you?'** | **HI, HOW, ARE, YOU** |
+| **Input** | **Output** |
+| **'hello'** | **HELLO**|
 
 ### Hints
 
