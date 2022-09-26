@@ -204,3 +204,27 @@ For each comparison print either **`**** {x1, y1} to {x2, y2} is valid ****`** i
 | **2, 1, 1, 1** | **{2, 1} to {0, 0} is invalid** | 
 |                | **{1, 1} to {0, 0} is invalid** |
 |                | **{2, 1} to {1, 1} is valid**   |
+
+
+**9. Words Uppercase**
+
+Write a program that **extracts all words** from a passed-in string and converts them to **upper case**. The extracted words in the upper case must be printed on a single line separated by **", "**.
+
+The **input** comes as a single string argument - the text to extract and convert words from.
+
+The **output** should be a single line containing the converted string.
+
+### Examples
+
+| **Input** | **Output** |
+ | **Input** | **Output** |
+| --- | --- | --- | --- | --- |
+| **'Hi, how are you?'** | **HI, HOW, ARE, YOU**
+ | **'hello'** | **HELLO**
+ |
+
+### Hints
+
+- You may need to use a [Regular Expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) or check for all delimiters that can be found in a sentence (ex. ",", " ", "!", "?" and so on).
+
+![Shape3](RackMultipart20220923-1-8wsg6s_html_6f222e41d7629786.gif) ![Shape2](RackMultipart20220923-1-8wsg6s_html_5f0f2ddacbac70d2.gif) ![Shape1](RackMultipart20220923-1-8wsg6s_html_51bd00be29b85496.gif) ![Shape4](RackMultipart20220923-1-8wsg6s_html_f746d52952cd7e91.gif)[![](RackMultipart20220923-1-8wsg6s_html_3aa486326bfa75e9.png)](https://softuni.org/)
