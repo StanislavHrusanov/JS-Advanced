@@ -219,7 +219,6 @@ The **output** should be a single line containing the converted string.
 | **Input** | **Output** |
 | --- | --- |
 | **'Hi, how are you?'** | **HI, HOW, ARE, YOU** |
-| **Input** | **Output** |
 | **'hello'** | **HELLO**|
 
 ### Hints
