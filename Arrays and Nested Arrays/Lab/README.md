@@ -9,7 +9,7 @@ The **output** is printed on the console. Collect all elements in a string, sepa
 ### Examples
 
 | **Input** | **Output** |
-| --- | --- | --- | --- |
+| --- | --- |
 | **['20', '30', '40','50', '60']** | **20 40 60** |
 | **['5', '10']** | **5** |
 
