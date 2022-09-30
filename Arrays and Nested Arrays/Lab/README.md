@@ -68,3 +68,20 @@ The **output** is printed on the console, each element on a new line.
 | --- | --- |
 | **[7, -2, 8, 9]** | **-2** **7** **8** **9** |
 |**[3, -2, 0, -1]** | **-1** **-2** **3** **0** |
+
+
+## 5.Smallest Two Numbers
+
+Write a function that prints the two smallest elements from an array of numbers.
+
+The **input** comes as an **array of number elements**.
+
+The **output** is printed on the console on a single line, separated by space.
+
+### Example
+
+| **Input** | **Output** |
+| --- | --- |
+| **[30, 15, 50, 5]** | **5 15** |
+| **[3, 0, 10, 4, 7, 3]** | **0 3** |
+
