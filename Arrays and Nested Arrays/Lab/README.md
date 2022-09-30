@@ -37,3 +37,19 @@ The **output** is the **return** value of your function and should be an **array
 
 The 2nd element (1) is the sum of the 3 elements before it, but there is only 1, so we take that. The third element is the sum of the first 2 (1 and 1) and the 4th – the sum of 1, 1, and 2. The 5th element is the sum of the 2nd, 3rd, and 4th (1, 2, and 4) and so on.
 
+
+## 3.Sum First Last
+
+Write a function that calculates and returns the sum of the first and the last elements in an array.
+
+The **input** comes **as an array of string elements** holding numbers.
+
+The **output** is the **return** value of your function and should be a **number**.
+
+### Example
+
+| **Input** | **Output** |
+| --- | --- |
+| **['20', '30', '40']** | **60** |
+| **['5', '10']** | **15** |
+
