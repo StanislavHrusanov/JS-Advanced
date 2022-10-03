@@ -117,7 +117,7 @@ The **output** is the **return** value of the function and should be an **array 
 | **Input** | **Output** |
 | --- | --- |
 | **['Pumpkin Pie',****'Key Lime Pie',****'Cherry Pie',****'Lemon Meringue Pie',****'Sugar Cream Pie'],****'Key Lime Pie',****'Lemon Meringue Pie'** | **['Key Lime Pie',****'Cherry Pie',****'Lemon Meringue Pie']** |
-| **['Apple Crisp',****'Mississippi Mud Pie',****'Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie'],****'Pot Pie',****'Smoked Fish Pie' **|** ['Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie']** |
+| **['Apple Crisp',****'Mississippi Mud Pie',****'Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie'],****'Pot Pie',****'Smoked Fish Pie'** | **['Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie']** |
 
 
 ## 8.Process Odd Positions
