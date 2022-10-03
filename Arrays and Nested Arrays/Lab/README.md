@@ -100,3 +100,22 @@ The **output** is the **return** value of the function and should be an **array 
 | **[4, 7, 2, 5]** | **[5, 7]** |
 | **[3, 19, 14, 7, 2, 19, 6]** | **[7, 14, 19, 19]** |
 
+
+## 7.Piece of Pie
+
+Write a function that receives **three parameters** – an **array** of pie flavors as **strings,** two target flavors as **strings**. The result of the function should be a **new array** , containing a section of the original array, **starting** at the first flavor parameter, and **ending** at (and **including** ) the second flavor parameter.
+
+The **input** comes as **three arguments** :
+
+- An **array of strings** , representing pie flavors
+- **Two more strings** , representing the start and end of the section, respectively
+
+The **output** is the **return** value of the function and should be an **array of strings**.
+
+### Example
+
+| **Input** | **Output** |
+| --- | --- |
+| **['Pumpkin Pie',****'Key Lime Pie',****'Cherry Pie',****'Lemon Meringue Pie',****'Sugar Cream Pie'],****'Key Lime Pie',****'Lemon Meringue Pie'** | **['Key Lime Pie',****'Cherry Pie',****'Lemon Meringue Pie']** |
+| **['Apple Crisp',****'Mississippi Mud Pie',****'Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie'],****'Pot Pie',****'Smoked Fish Pie' **|** ['Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie']** |
+
