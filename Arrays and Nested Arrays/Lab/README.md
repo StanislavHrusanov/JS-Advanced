@@ -119,3 +119,19 @@ The **output** is the **return** value of the function and should be an **array 
 | **['Pumpkin Pie',****'Key Lime Pie',****'Cherry Pie',****'Lemon Meringue Pie',****'Sugar Cream Pie'],****'Key Lime Pie',****'Lemon Meringue Pie'** | **['Key Lime Pie',****'Cherry Pie',****'Lemon Meringue Pie']** |
 | **['Apple Crisp',****'Mississippi Mud Pie',****'Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie'],****'Pot Pie',****'Smoked Fish Pie' **|** ['Pot Pie',****'Steak and Cheese Pie',****'Butter Chicken Pie',****'Smoked Fish Pie']** |
 
+
+## 8.Process Odd Positions
+
+You are given an array of numbers. Write a JS function that **returns** the elements at **odd**** positions **from the array,** doubled **and in** reverse** order.
+
+The **input** comes as an **array of number elements**.
+
+The **output** is the **return** on the console on a single line, separated by space.
+
+### Example
+
+| **Input** | **Output** |
+| --- | --- |
+| **[10, 15, 20, 25]** | **50 30** |
+| **[3, 0, 10, 4, 7, 3]** | **6 8 0** |
+
