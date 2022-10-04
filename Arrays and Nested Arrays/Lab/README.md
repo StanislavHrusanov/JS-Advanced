@@ -148,5 +148,22 @@ The **output** is the **return** value of your function. Find the biggest elemen
 
 | **Input** | **Output** |
 | --- | --- |
-| **[[20, 50, 10],** **[8, 33, 145]]**| **145** | **[[3, 5, 7, 12],** **[-1, 4, 33, 2],** **[8, 3, 0, 4]]** | **33** |
+| **[[20, 50, 10],** **[8, 33, 145]]**| **145** |
+| **[[3, 5, 7, 12],** **[-1, 4, 33, 2],** **[8, 3, 0, 4]]** | **33** |
+
+
+## 10.Diagonal Sums
+
+A square matrix of numbers comes as an array of **strings** , each string holding numbers (space separated). Write a function that finds the sum at the main and the secondary diagonals.
+
+The **input** comes as an **array of arrays** , containing number elements (2D matrix of numbers).
+
+The **output** is **printed** on the console, on a single line separated by space. First print the sum at the main diagonal, then the sum at the secondary diagonal.
+
+### Example
+
+| **Input** | **Output** |
+| --- | --- |
+| **[[20, 40],** **[10, 60]]** | **80 50** |
+| **[[3, 5, 17],** **[-1, 7, 14],** **[1, -8, 89]]** | **99 25** |
 
