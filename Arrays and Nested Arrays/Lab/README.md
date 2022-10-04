@@ -167,3 +167,18 @@ The **output** is **printed** on the console, on a single line separated by spac
 | **[[20, 40],** **[10, 60]]** | **80 50** |
 | **[[3, 5, 17],** **[-1, 7, 14],** **[1, -8, 89]]** | **99 25** |
 
+
+## 11.Equal Neighbors
+
+Write a function that finds the number of **equal**** neighbor **pairs inside a** matrix** of variable size and type (numbers or strings).
+
+The **input** comes as an **array of arrays** , containing string elements (2D matrix of strings).
+
+The **output** is the **return** value of your function. Save the number of equal pairs you find and return it.
+
+### Example
+
+| **Input** | **Output** |
+| --- | --- |
+| **[['2', '3', '4', '7', '0'],** **['4', '0', '5', '3', '4'],** **['2', '3', '5', '4', '2'],** **['9', '8', '7', '5', '4']]** |**1** |
+|**[['test', 'yes', 'yo', 'ho'],** **['well', 'done', 'yo', '6'],** **['not', 'done', 'yet', '5']]** | **2** |
