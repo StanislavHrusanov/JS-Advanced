@@ -135,3 +135,18 @@ The **output** is the **return** on the console on a single line, separated by s
 | **[10, 15, 20, 25]** | **50 30** |
 | **[3, 0, 10, 4, 7, 3]** | **6 8 0** |
 
+
+## 9.Biggest Element
+
+Write a function that finds the biggest element inside a matrix.
+
+The **input** comes as an **array of arrays** , containing number elements (2D matrix of numbers).
+
+The **output** is the **return** value of your function. Find the biggest element and return it.
+
+### Examples
+
+| **Input** | **Output** |
+| --- | --- |
+| **[[20, 50, 10],** **[8, 33, 145]]**| **145** | **[[3, 5, 7, 12],** **[-1, 4, 33, 2],** **[8, 3, 0, 4]]** | **33** |
+
