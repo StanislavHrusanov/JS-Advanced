@@ -9,7 +9,7 @@ The **output** is the elements of the array, printed on the console, each elemen
 | **Input** | **Output** |
 | --- | --- |
 | **['One',**  **'Two',**  **'Three',**  **'Four',** **'Five'],**  **'-'** | **One-Two-Three-Four-Five** |
- | **['How about no?',**  **'I',****'will', ****'not', ****'do', ****'it!'], ****'\_'** | **How about no?\_I\_will\_not\_do\_it!** |
+| **['How about no?',**  **'I',** **'will',** **'not',** **'do',** **'it!'],** **'\_'** | **How about no?\_I\_will\_not\_do\_it!** |
 
 
 ## 2.Print Every N-th Element from an Array
@@ -24,7 +24,8 @@ The **output** is the **return** value of your function and must be an **array**
 
 | **Input** | **Output** |
 | --- | --- |
-| **['5',**  **'20',**  **'31',**  **'4',** **'20'],**  **2** | **['5', '31', '20']** |
+| **['5',**  **'20',**  **'31',**  **'4',** **'20'],**  **2** | 
+|**['5', '31', '20']** |
 | **['dsa',** **'asd',** **'test',** **'tset'],** **2**
 | **['dsa', 'test']** |
 | **['1',**  **'2',** **'3',** **'4'** **'5'],** **6** | **['1']** |
