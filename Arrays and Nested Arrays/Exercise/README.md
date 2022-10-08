@@ -96,5 +96,8 @@ You will receive an **array of names**. Sort them **alphabetically in ascending 
 
 | **Input** | **Output** |
 | --- | --- |
-| **["John", "Bob", "Christina", "Ema"]** | **1.Bob** **2.Christina** **3.Ema** **4.John** |
+| **["John", "Bob", "Christina", "Ema"]** | **1.Bob** |
+||**2.Christina** |
+||**3.Ema** |
+||**4.John** |
 
