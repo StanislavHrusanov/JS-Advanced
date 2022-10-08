@@ -54,3 +54,19 @@ The **output** is the element of the array, each printed on a new line. In case 
 || **5** |
 | **['remove',**  **'remove',** **'remove']** | **Empty** |
 
+
+## 4.Rotate Array
+
+Write a JS function that rotates an array. The array should be rotated **to the right side** , meaning that the last element should become the first, upon rotation.
+
+The **input** comes as two parameters – an **array of strings** and a **number**. The **second parameter** is the amount of rotation you need to perform.
+
+The **output** is the resulting array after the rotations. The elements should be printed on one line, separated by a **single space**.
+
+### Examples
+
+| **Input** | **Output** |
+| --- | --- |
+| **['1',**  **'2',**  **'3',** **'4'],**  **2** | **3 4 1 2** |
+| **['Banana',**  **'Orange',**  **'Coconut',** **'Apple'],**  **15** | **Orange Coconut Apple Banana** |
+
