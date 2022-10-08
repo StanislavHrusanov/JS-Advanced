@@ -87,3 +87,14 @@ The **output** is the processed array after the filtration, which should be a no
 | **[1,**  **2,**  **3,** **4]** | **[1, 2, 3, 4]** |
 | **[20,** **3,** **2,** **15,** **6,** **1]** | **[20]** |
 
+
+## 6.List of Names
+
+You will receive an **array of names**. Sort them **alphabetically in ascending order** and print a numbered list of all the names, each on a new line.
+
+**Example**
+
+| **Input** | **Output** |
+| --- | --- |
+| **["John", "Bob", "Christina", "Ema"]** | **1.Bob** **2.Christina** **3.Ema** **4.John** |
+
