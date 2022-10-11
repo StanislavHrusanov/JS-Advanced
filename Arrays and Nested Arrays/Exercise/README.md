@@ -231,3 +231,32 @@ The **output** is either the new matrix, with all cells not belonging to a main 
 | **'1 1 1',** | **1 1 1** |
 | **'1 1 0']** |   **1 1 0** |
 
+
+## 12.\*Orbit
+
+You will be given an empty rectangular space of cells. Then you will be given the position of a star. You need to build the orbits around it.
+
+You will be given a coordinate of a cell, which will **always be**** inside the matrix **, on which you will put the value -** 1 **. Then you must set the values of the cells** directly surrounding that cell **, including the** diagonals **,** to **** 2**. After which you must set the values of the next surrounding cells to 3 and so on.
+
+The **input** comes as an **array of 4 numbers**** [width, height, x, y] **which represents the** dimensions of the matrix **and the** coordinates of the star.**
+
+The **output** is the filled matrix, with the cells **separated by a space** , each **row on a new line**.
+
+### Examples
+
+| **Input** | **Output** |
+| --- | --- |
+| **[4, 4, 0, 0]** | **1 2 3 4** | 
+|| **2 2 3 4** |
+|| **3 3 3 4** |
+|| **4 4 4 4** |
+||
+| **[5, 5, 2, 2]** | **3 3 3 3 3** |
+|| **3 2 2 2 3 ** | 
+|| **3 2 1 2 3** | 
+|| **3 2 2 2 3** |
+|| **3 3 3 3 3** |
+|| 
+| **[3, 3, 2, 2]** | **3 3 3** |
+||**3 2 2** | 
+||**3 2 1** |
