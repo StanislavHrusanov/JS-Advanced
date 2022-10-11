@@ -252,7 +252,7 @@ The **output** is the filled matrix, with the cells **separated by a space** , e
 || **4 4 4 4** |
 ||
 | **[5, 5, 2, 2]** | **3 3 3 3 3** |
-|| **3 2 2 2 3 ** | 
+|| **3 2 2 2 3** | 
 || **3 2 1 2 3** | 
 || **3 2 2 2 3** |
 || **3 3 3 3 3** |
