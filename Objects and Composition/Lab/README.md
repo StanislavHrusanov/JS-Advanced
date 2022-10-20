@@ -64,7 +64,6 @@ Return an **object** as described above. The methods of the object modify the ob
 | **const city =** **cityTaxes('Tortuga',** **7000,** **15000** **console.log(city);** | **{name: 'Tortuga',population: 7000,treasury: 15000,taxRate: 10, collectTaxes : [Function: collectTaxes],applyGrowth: [Function: applyGrowth],applyRecession: [Function: applyRecession]}** |
 | **Testing with code** |
 | **Input** | **Output** |
-| --- | --- |
 | **const city =** **cityTaxes('Tortuga'** **7000,** **15000);** **city.collectTaxes();** **console.log(city.treasury);** **city.applyGrowth(5);** **console.log(city.population);** | **850007350** |
 
 
