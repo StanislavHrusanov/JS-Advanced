@@ -185,7 +185,7 @@ Your **solution** must **return an object** containing the **three decorators** 
 
 ### Example
 
-| **Setup** |
+| **Setup** ||
 | --- | --- |
 | const **assemblyLine** = createAssemblyLine();||
 |const **myCar** = {make: 'Toyota',model: 'Avensis'};||
