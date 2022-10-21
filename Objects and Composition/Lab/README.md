@@ -190,11 +190,19 @@ Your **solution** must **return an object** containing the **three decorators** 
 | const **assemblyLine** = createAssemblyLine();||
 |const **myCar** = {make: 'Toyota',model: 'Avensis'};||
 | **Input** | **Output** |
-| **assemblyLine**.hasClima( **myCar** );console.log( **myCar**.temp); **myCar**.tempSettings = 18; **myCar**.adjustTemp();console.log( **myCar**.temp); | 2120 |
+| **assemblyLine**.hasClima( **myCar** );|21|
+|console.log( **myCar**.temp);|20|
+| **myCar**.tempSettings = 18; ||
+|**myCar**.adjustTemp();||
+|console.log( **myCar**.temp); ||
 | **Input** | **Output** |
-| **assemblyLine**.hasAudio( **myCar** ); **myCar**.currentTrack = {name: 'Never Gonna Give You Up',artist: 'Rick Astley'}; **myCar**.nowPlaying(); | Now playing 'Never Gonna Give You Up' by Rick Astley |
+| **assemblyLine**.hasAudio( **myCar** );|Now playing 'Never Gonna Give You Up' by Rick Astley | 
+|**myCar**.currentTrack = {name: 'Never Gonna Give You Up',artist: 'Rick Astley'};||
+| **myCar**.nowPlaying();||
 | **Input** | **Output** |
-| **assemblyLine**.hasParktronic( **myCar** ); **myCar**.checkDistance(0.4); **myCar**.checkDistance(0.2); | Beep!Beep! Beep! |
+| **assemblyLine**.hasParktronic( **myCar** );|Beep!|
+| **myCar**.checkDistance(0.4);|Beep! Beep!|
+| **myCar**.checkDistance(0.2); ||
 | **Input** | **Output** |
 | console.log( **myCar** ); | {make: 'Toyota',model: 'Avensis',temp: 20,tempSettings: 18,adjustTemp: [Function],currentTrack: {name: 'Never Gonna Give You Up',artist: 'Rick Astley'},nowPlaying: [Function],checkDistance: [Function]} |
 
