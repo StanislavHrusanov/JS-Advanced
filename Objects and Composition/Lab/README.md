@@ -186,9 +186,9 @@ Your **solution** must **return an object** containing the **three decorators** 
 ### Example
 
 | **Setup** |
-| --- |
-| const **assemblyLine** = createAssemblyLine();
-const **myCar** = {make: 'Toyota',model: 'Avensis'}; |
+| --- | --- |
+| const **assemblyLine** = createAssemblyLine();||
+|const **myCar** = {make: 'Toyota',model: 'Avensis'};||
 | **Input** | **Output** |
 | **assemblyLine**.hasClima( **myCar** );console.log( **myCar**.temp); **myCar**.tempSettings = 18; **myCar**.adjustTemp();console.log( **myCar**.temp); | 2120 |
 | **Input** | **Output** |
